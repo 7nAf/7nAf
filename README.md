@@ -23,7 +23,7 @@
 
 
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=nafisdev&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+Trophy(https://github-profile-trophy.vercel.app/?username=nafisdev)
 
 
 <br>
