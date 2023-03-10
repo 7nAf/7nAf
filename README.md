@@ -5,7 +5,7 @@
 
 
 <b>BIO</b><br>
-- 👀 I am an experienced Software Engineer with a passion for libraries, frameworks and infrastructure. Healthcare technologies fascinates me.
+- 👀 I am an experienced Software Engineering Lead with a passion for libraries, frameworks and infrastructure. Healthcare technologies fascinates me.
 - 🌱 At office , I am just another fullstack developer, who create APIs, write FE to consume and subsequently write IAC to deploy in cloud.
 - 💞️ I’m looking to collaborate on writing frameworks/libraries.i have been developing web applications.
 - 📫 How to reach me nafis.mohammad65@gmail.com
