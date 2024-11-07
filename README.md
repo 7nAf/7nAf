@@ -23,7 +23,7 @@
 
 
 <br>
-Trophy(https://github-profile-trophy.vercel.app/?username=nafisdev)
+Trophy(https://github-profile-trophy.vercel.app?username=nafisdev)
 
 
 <br>
